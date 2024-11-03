@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://moazzamportfolio.netlify.app/](https://moazzamportfolio.netlify.app/)
 
-- 💬 Ask me about **C++, python, DSA, HTML, CSS, JAVA, JS and Some new TECH!!**
+- 💬 Ask me about **C, C++, Java, SQL, OOP, DSA, HTML, CSS, JS, and Some new TECH!!**
 
 - 📫 How to reach me **moazzamchaudhari49@gmail.com**
 
